@@ -1,0 +1,9 @@
+It is start txt file and it is used to store input data and it is 
+very famous file it is mostly used in pakistan......... 
+ 'first file is complete' 
+  I am samiullah and i am lives in lahore. It is very enjoyable city.
+mostly, I am enjoy in this city. 
+ 'second file is complete' 
+ this is append file and it is used to append data with previous data.....
+here is the file.... 
+ 'third file is complete' 
